@@ -1,4 +1,7 @@
 # pix2pix-tensorflow
+此代码转自大神： https://github.com/affinelayer/pix2pix-tensorflow.git
+
+
 
 Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
 
